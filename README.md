@@ -17,7 +17,7 @@ Automobile Applications: Microstrip patch antennas are employed in telematics, G
 ![Radiation](/Screenshots/microstrip_radiation.png)
 
 # 3D View
-![3d](/Screenshots/microstrip_3d view.png)
+![View](/Screenshots/microstrip_3d view.png)
 
 
 
